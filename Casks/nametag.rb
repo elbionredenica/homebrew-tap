@@ -7,7 +7,7 @@ cask "nametag" do
   desc "Name your Mac desktops in Mission Control"
   homepage "https://github.com/elbionredenica/nametag"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Nametag.app"
 
