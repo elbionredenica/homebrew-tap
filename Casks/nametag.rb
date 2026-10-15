@@ -1,6 +1,6 @@
 cask "nametag" do
-  version "0.1.0"
-  sha256 "e9a402486c4b3e11ccbb4fc7b07cbe9cffa84373937bdbfdd91c1522662a30c4"
+  version "0.1.1"
+  sha256 "b2103f5d367d38f2e57e9ad4e3585003a07eae7d95af5b4f22c623aaa88c52d1"
 
   url "https://github.com/elbionredenica/nametag/releases/download/v#{version}/Nametag-#{version}.zip"
   name "Nametag"
